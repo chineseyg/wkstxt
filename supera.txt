@@ -3,3 +3,4 @@ hhllfreegy3.pages.dev
 hhllfreegy4.pages.dev
 hhllfreegy5.pages.dev
 hhllfreegy6.pages.dev
+hhllfreegy7.pages.dev
